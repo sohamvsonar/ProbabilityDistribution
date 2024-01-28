@@ -27,9 +27,6 @@ The script utilizes the SST (Stanford Sentiment Treebank) and QNLI (Question Nat
 - pandas
 - NLTK (Natural Language Toolkit)
 
-#### Install NLTK using the following command:
-    ```bash pip install nltk ```
-
 ## Usage
 
 1. Clone the repository:
@@ -37,6 +34,10 @@ The script utilizes the SST (Stanford Sentiment Treebank) and QNLI (Question Nat
     git clone https://github.com/sohamvsonar/ProbabilityDistribution.git
 
 2. Install the dependencies:
+
+Install NLTK using the following command:
+    ```bash
+    pip install nltk
 
 3. Run the script:
     ```bash
