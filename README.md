@@ -5,8 +5,9 @@ This Python script analyzes text data by computing probability distributions, en
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Dependencies](#Dependencies)
+- [Usage](#Usage)
+- [Functions](#Functions)
 
 ## Introduction
 
@@ -27,17 +28,20 @@ The script utilizes the SST (Stanford Sentiment Treebank) and QNLI (Question Nat
 - NLTK (Natural Language Toolkit)
 
 Install NLTK using the following command:
-    ``` pip install nltk ```
+    ```bash
+    pip install nltk
 
 ## Usage
 
 1. Clone the repository:
-    ``` git clone https://github.com/sohamvsonar/ProbabilityDistribution.git ```
+    ```bash
+    git clone https://github.com/sohamvsonar/ProbabilityDistribution.git
 
 2. Install the dependencies:
 
 3. Run the script:
-    ``` python entropy_analysis.py ```
+    ```bash
+    python entropy_analysis.py
 
 ## Functions
 
