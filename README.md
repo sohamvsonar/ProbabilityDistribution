@@ -34,8 +34,6 @@ The script utilizes the SST (Stanford Sentiment Treebank) and QNLI (Question Nat
     git clone https://github.com/sohamvsonar/ProbabilityDistribution.git
 
 2. Install the dependencies:
-
-Install NLTK using the following command:
     ```bash
     pip install nltk
 
