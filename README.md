@@ -27,9 +27,8 @@ The script utilizes the SST (Stanford Sentiment Treebank) and QNLI (Question Nat
 - pandas
 - NLTK (Natural Language Toolkit)
 
-Install NLTK using the following command:
-    ```bash
-    pip install nltk
+#### Install NLTK using the following command:
+    ```bash pip install nltk ```
 
 ## Usage
 
