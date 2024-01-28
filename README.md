@@ -41,7 +41,7 @@ Install NLTK using the following command:
 
 3. Run the script:
     ```bash
-    python entropy_analysis.py
+    python ProbabilityDistribution.ipynb
 
 ## Functions
 
